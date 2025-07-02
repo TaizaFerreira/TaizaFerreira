@@ -1,10 +1,18 @@
-- 👋 Oi, eu sou @TaizaFerreira  
-- 👀 Tenho interesse em ciência de dados, tecnologia com propósito social e soluções que transformam desafios reais.  
-- 🌱 Atualmente estou estudando Ciência de Dados na Anhanguera e participando do bootcamp da Laboratória, que forma mulheres para o mercado de tecnologia.  
-- 💞️ Busco colaborar em projetos baseados em dados, especialmente aqueles focados em análise, geração de insights e apoio à tomada de decisões.  
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/taiza-ferreira-679212118) | taiza.desouza@yahoo.com.br  
-- 😄 Pronomes: Ela/Dela  
-- ⚡ Curiosidade: Sou enfermeira emergencista com 17 anos de experiência que decidiu migrar para a tecnologia em 2025 em busca de mais equilíbrio, crescimento e novos desafios!
+ Oi, eu sou a Taiza Ferreira
+
+ Tenho interesse em análise de dados no geral, com foco em gerar valor por meio de insights, eficiência e tomada de decisão estratégica.
+
+ Curso Ciência de Dados na Anhanguera e participo da Jornada de Dados da Laboratória Brasil, com projetos práticos, certificações e desenvolvimento técnico-comportamental.
+
+ Trago 17 anos de experiência em liderança e gestão orientada por dados, com forte atuação em processos, indicadores e melhorias baseadas em evidências.
+
+ Busco oportunidades para aplicar e ampliar minhas habilidades em projetos de dados, contribuindo com análises, visualizações e soluções eficientes.
+
+ Conecte-se comigo: LinkedIn | taiza.desouza@yahoo.com.br
+
+ Pronomes: Ela/Dela
+
+ Curiosidade: Transformei desafios reais em resultados concretos com dados antes mesmo de migrar para a área, agora, sigo aprimorando isso com Python, SQL, Power BI e mais.
 
 <!---
 TaizaFerreira/TaizaFerreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
