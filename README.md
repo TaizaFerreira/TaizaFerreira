@@ -8,7 +8,7 @@
 
  Busco oportunidades para aplicar e ampliar minhas habilidades em projetos de dados, contribuindo com análises, visualizações e soluções eficientes.
 
- Conecte-se comigo: LinkedIn | taiza.desouza@yahoo.com.br
+ Conecte-se comigo: [LinkedIn](https://linkedin.com/in/taiza-ferreira-dados) | email: taiza.desouza@yahoo.com.br
 
  Pronomes: Ela/Dela
 
