@@ -1,6 +1,6 @@
  Oi, eu sou a Taiza Ferreira
 
- Tenho interesse em análise de dados no geral, com foco em gerar valor por meio de insights, eficiência e tomada de decisão estratégica.
+ Tenho interesse em análise de dados, com foco em gerar valor por meio de insights, eficiência e tomada de decisão estratégica.
 
  Curso Ciência de Dados na Anhanguera e participo da Jornada de Dados da Laboratória Brasil, com projetos práticos, certificações e desenvolvimento técnico-comportamental.
 
